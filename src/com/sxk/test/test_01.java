@@ -106,6 +106,9 @@ public class test_01 {
         myOutPut(num,start+1,end-1);
     }
 
+    public void test_05(){
+        System.out.println("hello git");
+    }
     @Test
     public void test_03(){
         String stringArray1="ABCDEFGHI";
